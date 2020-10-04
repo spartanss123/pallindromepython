@@ -3,9 +3,10 @@
 def isPalindrome(s):
 	return s == s[::-1]
 
+#program to check pallindrome
 
 # Driver code
-s = "codeedoc"
+s = "malayalam"
 ans = isPalindrome(s)
 
 if ans:
