@@ -12,4 +12,4 @@ ans = isPalindrome(s)
 if ans:
 	print("YES IT IS A PALINDROME")
 else:
-	print("NO IT IS NOT PALINDROME")
+	print("Not PALLINDROME")
